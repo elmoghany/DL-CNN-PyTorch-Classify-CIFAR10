@@ -2,7 +2,7 @@
 For the cifar dataset, we want to classify the numbers
 
 # Illustration
-1) Training: We train a CNN model on an input picture of a random gaussian noise with a horizontal and vertical bars as occlusion 
+1) Training: We train a CNN model on cifar input images
 2) Input features: 3*32*32 (RGB channels, width, heigth)
 3) Output targets: ['airplane', 'automobile', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck']
 
